@@ -2,8 +2,8 @@
 ## About
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on accidents from Aviation Accident Database & Synopses. For detailed walkthrough, please view the source code in order from:
 1.	[Data Cleaning and Preparation](https://github.com/estergohgh/sc1015dsaiproj/blob/main/Sections/Data%20Cleaning%20and%20Preparation.ipynb)
-2.	[Exploratory Analysis (EDA)](https://github.com/estergohgh/sc1015dsaiproj/blob/main/Sections/)
-3.	Machine Learning (ML)
+2.	[Exploratory Analysis (EDA)](https://github.com/estergohgh/sc1015dsaiproj/blob/main/Sections/Exploratory%20Analysis%20(EDA).ipynb)
+3.	[Machine Learning (ML)](https://github.com/estergohgh/sc1015dsaiproj/blob/main/Sections/Machine%20Learning%20(ML).ipynb)
 
 ## Contributors
 •	Ester Goh Gue Hua (U2040652J) – Code and Slides <br>
